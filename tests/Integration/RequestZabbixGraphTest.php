@@ -1,9 +1,9 @@
 <?php
 
-namespace CasperBoone\ZabbixGraph\Test\Unit;
+namespace Janmuran\ZabbixGraph\Test\Unit;
 
-use CasperBoone\ZabbixGraph\ZabbixGraph;
-use CasperBoone\ZabbixGraph\Test\TestCase;
+use Janmuran\ZabbixGraph\ZabbixGraph;
+use Janmuran\ZabbixGraph\Test\TestCase;
 
 class RequestZabbixGraphTest extends TestCase
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace CasperBoone\ZabbixGraph\Test\Unit;
+namespace Janmuran\ZabbixGraph\Test\Unit;
 
 use Mockery;
-use CasperBoone\ZabbixGraph\ZabbixGraph;
+use Janmuran\ZabbixGraph\ZabbixGraph;
 
 class FakeZabbixGraph extends ZabbixGraph
 {

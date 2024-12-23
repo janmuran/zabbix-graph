@@ -1,6 +1,6 @@
 <?php
 
-namespace CasperBoone\ZabbixGraph\Test\Unit;
+namespace Janmuran\ZabbixGraph\Test\Unit;
 
 use Mockery;
 use PHPUnit\Framework\TestCase;
@@ -14,7 +14,7 @@ class ZabbixGraphTest extends TestCase
      */
     private $zabbixGraph;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         parent::setUp();
 

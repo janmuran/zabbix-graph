@@ -1,6 +1,6 @@
 <?php
 
-namespace CasperBoone\ZabbixGraph\Test;
+namespace Janmuran\ZabbixGraph\Test;
 
 use Dotenv\Dotenv;
 use Dotenv\Exception\InvalidPathException;
